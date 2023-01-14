@@ -15,7 +15,7 @@
 
 
 - ## Data Analysis and Visualization
-     - <a href='https://github.com/Shailesh12Github/EDA-and-k-means-Clustering'>EDA-and-k-means-Clustering</a> : 
+     - <a href='https://github.com/Shailesh12Github/EDA-and-k-means-Clustering'>EDA-and-k-means-Clustering</a>  
 
 
 
